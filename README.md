@@ -3,7 +3,7 @@
 <h2 align="center">I'm a computer engineering student at the University of Waterloo 🦤</h2>
 
 <h3 align="center">🔭 I’m currently working on... 
-<h4 align="center"><a href="https://github.com/BrianLi23/HandTrackingProject" target="_blank" rel="noreferrer">Hand-tracking Computer Extension🖐️</a> | Computer extension that allows user to control computer through hand motions</h4>
+<h4 align="center"><a href="https://github.com/BrianLi23/HandTrackingProject" target="_blank" rel="noreferrer">Hand-tracking Computer Extension🖐️</a> | Computer extension that allows user to control their computer through hand motions</h4>
 </h3>
 
 
