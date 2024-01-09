@@ -8,13 +8,7 @@
 
 
 
-<h3 align="center">👁️ Check out my website!
-<h4 align="center">🌐 <a href="https://brianljx.vercel.app/" target="_blank" rel="noreferrer">https://brianljx.vercel.app/</a></h4>
-</h3>
-
-<p align="center"><img src="https://github-readme-streak-stats-peach-two.vercel.app?user=BrianLi23&theme=transparent" alt="GitHub Streak" /></p>
-
-<h3 align="center">🛠️ Tools I work with:</br></h3>
+<h3 align="center">🛠️ Tools I work with</br></h3>
 
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
@@ -29,12 +23,18 @@
   <a href="https://react.dev/" alt="React" target="_blank" rel="noreferrer"/><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50" height="50"></a> 
   </p>
 
-<h3 align="center">🧑‍🤝‍🧑Socials</h3>
+  <h3 align="center">👁️ Check out my website!
+  <h4 align="center">🌐 <a href="https://brianljx.vercel.app/" target="_blank" rel="noreferrer">https://brianljx.vercel.app/</a></h4>
+  </h3>
+
+<h3 align="center">🧑‍🤝‍🧑Connect with me!</h3>
 
 <p align="center">
   <a href="mailto:b77li@uwaterloo.ca" target="_blank" rel="noreferrer"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" alt="email" width="50" height="50"> </a>
   <a href="www.linkedin.com/in/brianljx" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="50" height="50" </a>
 </p>
+
+<p align="center"><img src="https://github-readme-streak-stats-peach-two.vercel.app?user=BrianLi23&theme=transparent" alt="GitHub Streak" /></p>
 
 -----
 
