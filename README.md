@@ -34,8 +34,6 @@
   <a href="www.linkedin.com/in/brianljx" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="50" height="50" </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats-peach-two.vercel.app?user=BrianLi23&theme=transparent" alt="GitHub Streak" /></p>
-
 -----
 
 <small>Last Edited on: 2023-31-2023</small>
