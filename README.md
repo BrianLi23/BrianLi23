@@ -25,9 +25,3 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
-
-
----
-  <h3 align="left">Check out my website!
-  <h4 align="left">🌐 <a href="https://brianljx.vercel.app/" target="_blank" rel="noreferrer">https://brianljx.vercel.app/</a></h4>
-  </h3>
