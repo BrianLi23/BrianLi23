@@ -1,17 +1,7 @@
-<h1 align="left">Hi there👋 I'm Brian! </h1>
-
-<h3 align="left">I'm a computer engineering student at the University of Waterloo 🦤</h3>
-
+<p align="left">Hey there, I'm Brian! I'm a computer engineering student at the <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">University of Waterloo</a>.</p> <p align="left">I’m currently a MLE @ <a href="https://www.shopify.com/" target="_blank" rel="noopener noreferrer">Shopify</a> helping build the recommendation system that powers the <a href="https://shop.app/" target="_blank" rel="noopener noreferrer">Shop app</a>.</p>
 ---
 
-<h3 align="left">🔭 I’m currently working on... 
-<h4 align="left">  Scyta🖐️ | A personal computer Agent assistant that acts as an extra arm and leg to your computer! </h4>
-</h3>
-
-
-
-<h3 align="left">🛠️ Tools I work with</br></h3>
-
+**<p align="left">Tools I work with</br></p>**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
