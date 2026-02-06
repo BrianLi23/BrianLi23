@@ -1,4 +1,4 @@
-<p align="left">Hey there, I'm Brian! I'm a computer engineering student at the <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">University of Waterloo</a>.</p> <p align="left">I’m was previously a MLE @ <a href="https://www.shopify.com/" target="_blank" rel="noopener noreferrer">Shopify</a> helping build the recommendation system that powers the <a href="https://shop.app/" target="_blank" rel="noopener noreferrer">Shop app</a>.</p>
+<p align="left">Hey there, I'm Brian! I'm a computer engineering student at the <a href="https://uwaterloo.ca/" target="_blank" rel="noopener noreferrer">University of Waterloo</a>.</p> <p align="left">I was previously a MLE @ <a href="https://www.shopify.com/" target="_blank" rel="noopener noreferrer">Shopify</a> helping build the recommendation system that powers the <a href="https://shop.app/" target="_blank" rel="noopener noreferrer">Shop app</a>.</p>
 
 ---
 
